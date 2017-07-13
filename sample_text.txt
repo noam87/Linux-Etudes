@@ -1,0 +1,10 @@
+1234567890
+ABCDEFGHIJ
+abcdefghij
+
+This is line 5 of sample_text.txt. This is the file I will be using to read from in most of my examples.
+
+This is line 7. Line 6 is blank.
+Line 7 and line 8 follow each other.
+Line 9.
+Line 10.
